@@ -5,7 +5,7 @@ const express = require('express');
 const app = express();
 
 // Define una ruta que responda con tu nombre
-app.get('/', (req, res) => {
+app.get('/nombre', (req, res) => {
     res.send('¡Hola! Mi nombre es Rafael Albino Jovel Alfaro');
 });
 
