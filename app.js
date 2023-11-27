@@ -14,5 +14,5 @@ const puerto = 3000;
 
 // Hace que el servidor escuche las solicitudes en el puerto especificado
 app.listen(puerto, () => {
-    console.log(`Servidor escuchando en http://localhost:${puerto}`);
+    console.log(`arriba`);
 });
