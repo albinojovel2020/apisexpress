@@ -6,7 +6,7 @@ app.get('/photos', (req, res) => {
     const marsPhotos = [
         {
             "id": "424905",
-            "img_src": "https://www.nintenderos.com/wp-content/uploads/2021/05/best-electric-type-pokemon-ampharos-pikachu-zapdos-more-Cropped.jpg"
+            "img_src": "https://scontent.fsal2-1.fna.fbcdn.net/v/t39.30808-6/392888012_6835652733194556_462206844972547430_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=tpQTpwU3FwQAX9KHq9z&_nc_ht=scontent.fsal2-1.fna&oh=00_AfC8IsxNZRl8oWeZZldTl7a8mn8jQvuVo0IHbFDg6n9sqQ&oe=656AAF7B"
         },
         {
             "id": "424906",
