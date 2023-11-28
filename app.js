@@ -6,7 +6,7 @@ app.get('/photos', (req, res) => {
     const marsPhotos = [
         {
             "id": "424905",
-            "img_src": "https://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000MR0044631300503690E01_DXXX.jpg"
+            "img_src": "https://www.nintenderos.com/wp-content/uploads/2021/05/best-electric-type-pokemon-ampharos-pikachu-zapdos-more-Cropped.jpg"
         },
         {
             "id": "424906",
